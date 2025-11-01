@@ -1,5 +1,5 @@
-**Introducing Evalia: Change the Way Candidates Receive Feedback
-**
+Introducing Evalia: Change the Way Candidates Receive Feedback
+
 After experiencing multiple interviews without receiving any meaningful feedback, I realized just how frustrating and unclear the process can be for job seekers. Instead of just complaining, I decided to build a solution.
 
 Meet Evalia – an interview feedback platform
