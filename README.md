@@ -1,39 +1,18 @@
-# Evalia-Change-the-world-of-interviews-
-Building a Smart interview and feedback system - Human feedback. 
-Evalia is an intelligent interview assistant that helps interviewers structure their sessions, take focused notes, and generate personalized feedback — all powered by AI.
+Introducing Evalia: Change the Way Candidates Receive Feedback
 
-🚀 What is Evalia?
-Evalia transforms the way interviews are conducted by streamlining the entire process:
+After experiencing multiple interviews without receiving any meaningful feedback, I realized just how frustrating and unclear the process can be for job seekers. Instead of just complaining, I decided to build a solution.
 
-📝 Upload or paste a job description to generate a custom interview checklist
-✅ Use checkboxes to track covered topics during the interview
-💬 Add notes under each topic in real-time
-🤖 After each round, Evalia helps generate personalized candidate feedback — no more generic rejection message.
-🔁 In multi-round interviews, feedback is aggregated for a more consistent hiring decision
+Meet Evalia – an interview feedback platform
 
-🧠 Why Evalia?
-Hiring teams often:
-Struggle with unstructured interviews
-Forget to give meaningful feedback
-Waste time writing repetitive messages
-Evalia solves this by combining structured checklists, note-taking, and AI-generated summaries into one seamless tool.
+Recruiters add quick notes after interviews
+System compiles feedback from different rounds
+Candidates receive clear, constructive insights to improve
 
-🛠️ Features
-Upload job descriptions (text or image)
-AI-generated interview topic checklist
-Real-time note-taking interface
-Round-by-round reviewer inputs
-Personalized feedback generation
-Simple, clean UI for focus and usability
+I built this prototype with the help of Claude AI to speed up development and handle some of the technical work — the idea, research, and design are fully my own. I know recruiters and HR teams are juggling complex processes, Evalia is meant to make providing actionable feedback easier and more consistent, not replace existing systems.
 
-💻 Tech Stack (Planned or Used)
-UI/UX: Figma
-Frontend: HTML, CSS (Tailwind or custom), React (optional for later)
-Backend: Node.js, Python
-AI Integration: OpenAI for feedback generation
-Authentication: Google Workspace / Company email login
-Storage: Deciding on same
+This addresses a gap that many tools overlook: actionable feedback for candidates, not just internal data for HR teams.
 
-🌱 Status
-🔧 MVP in progress — currently building out the core UI and checklist generation.
+I also wrote an article detailing why candidates rarely get feedback and why this matters for both job seekers and organizations: https://medium.com/@divyadmenon2000/bridging-the-interview-feedback-gap-why-candidates-rarely-get-actionable-insights-f951106ef7ae
+
+Let’s rethink the candidate experience together. 💡
 
